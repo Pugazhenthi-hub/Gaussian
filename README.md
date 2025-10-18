@@ -9,9 +9,17 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1.Import the numpy module and sys module to use the built-in functions for calculation.
+
+
 2.Read the number of unknowns. Make a numpy array of (n x n+1) size and initialise it to zero for storing augmented matrix. Also, make another numpy array but having n size and initialise it to zero for storing     solution vector.
+
+
 3.Reading augmented matrix coefficients and perform Gaussian elimination without partial pivoting.
+
+
 4.Perform back substitution.
+
+
 5.End the program
 
 ## Program:
